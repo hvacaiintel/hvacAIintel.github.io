@@ -67,7 +67,7 @@ with practical AI tooling to solve real-world HVAC challenges across the Gulf re
 ## Connect
 
 - 🌐 [hvacaiintel.github.io](https://hvacaiintel.github.io)
-- 📺 YouTube: HVAC Intelligence
+- 📺 YouTube: @hvacAIintel
 - 💼 LinkedIn: [Connect with Utpal](https://linkedin.com/in/yourprofile)
 - 🤝 Society AI: HVAC Intelligence Agent
 
