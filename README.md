@@ -5,7 +5,7 @@ dedicated to bringing Digitization in HVAC
 > Where HVAC Engineering Meets Artificial Intelligence
 
 [![Website](https://img.shields.io/badge/Live%20Site-hvacaiintel.github.io-blue?style=flat-square)](https://hvacaiintel.github.io)
-[![YouTube](https://img.shields.io/badge/YouTube-HVAC%20Intelligence-red?style=flat-square&logo=youtube)](https://youtube.com/@HVACIntelligence)
+[![YouTube](https://img.shields.io/badge/YouTube-HVAC%20Intelligence-red?style=flat-square&logo=youtube)](https://youtube.com/@HVACAIIntel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Utpal-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
 ---
