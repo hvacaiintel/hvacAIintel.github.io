@@ -32,8 +32,35 @@ HVACAIIntel is dedicated to bringing **advanced digitization** and **AI-driven i
 [View on GitHub](https://github.com/hvacaiintel/hvacAIintel.github.io){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
+## The Digitization Roadmap: From Mechanical to Intelligent
+{: .fs-9 .text-center }
+HVACAIIntel is the bridge between traditional thermodynamics and neural-driven climate control. 
+Learn how to digitize air-side and water-side systems using the modern AI stack.
+{: .fs-6 .fw-300 .text-center }
 
-### Core Intelligence Pillars
-* **Predictive Maintenance:** Reducing downtime via AI-driven vibration and thermal analysis.
-* **Energy Optimization:** Real-time setpoint adjustments using machine learning.
-* **Air Quality Logic:** Intelligent monitoring of CO2 and particulates.
+---
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; margin-top: 40px;">
+
+  <div style="flex: 1; min-width: 250px; padding: 20px; border: 1px solid #333; border-radius: 10px; background: #1a1a1a;">
+    <h3 style="color: #007bff;">01. Data Ingestion & IoT</h3>
+    <p><b>The Foundation:</b> Move beyond manual logs. Learn to digitize physical variables (Temp, Flow, Static Pressure) using Modbus, BACnet, and IoT Gateways for real-time AI processing.</p>
+  </div>
+
+  <div style="flex: 1; min-width: 250px; padding: 20px; border: 1px solid #333; border-radius: 10px; background: #1a1a1a;">
+    <h3 style="color: #007bff;">02. Predictive Analytics</h3>
+    <p><b>The Intelligence:</b> Apply Computer Vision and Neural Networks to vibration data. Stop reacting to failures; start predicting compressor and motor breakdowns before they happen.</p>
+  </div>
+
+  <div style="flex: 1; min-width: 250px; padding: 20px; border: 1px solid #333; border-radius: 10px; background: #1a1a1a;">
+    <h3 style="color: #007bff;">03. Cognitive Efficiency</h3>
+    <p><b>The Optimization:</b> Moving from fixed Setpoints to Autonomous Logic. Use Reinforcement Learning to balance occupant comfort with deep energy decarbonization.</p>
+  </div>
+
+</div>
+
+---
+
+### 🚀 Ready to Digitize your HVAC Stack?
+[Start the AI Learning Path]({{ site.baseurl }}/docs/introduction){: .btn .btn-primary .fs-5 }
+[Explore the HVAC Data Schema]({{ site.baseurl }}/docs/sensors){: .btn .fs-5 }
