@@ -4,8 +4,8 @@ title: Home
 nav_order: 1
 description: "Bringing Digitization and AI Intelligence to HVAC Systems."
 permalink: /
-![HVACAIIntel Banner](/assets/images/banner.png)
 ---
+![HVACAIIntel Banner]({{ site.baseurl }}/assets/images/hvacaiintel%20banner.PNG)
 
 # HVACAIIntel
 {: .fs-9 }
