@@ -3,7 +3,11 @@ title: "HVACAIIntel"
 description: "Bringing Digitization and AI Intelligence to HVAC Systems."
 url: "https://hvacaiintel.github.io" 
 baseurl: "" # Leave this empty for .github.io repositories
+
+# --- HVAC & AI Branding ---
 logo: "/assets/images/123.png"
+color_scheme: dark
+
 # --- Theme Activation ---
 remote_theme: just-the-docs/just-the-docs
 
