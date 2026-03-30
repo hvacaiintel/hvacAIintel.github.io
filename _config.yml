@@ -1,0 +1,25 @@
+# --- Site Information ---
+title: "HVACAIIntel"
+description: "Bringing Digitization and AI Intelligence to HVAC Systems."
+url: "https://hvacaiintel.github.io" 
+baseurl: "" # Leave this empty for .github.io repositories
+
+# --- Theme Activation ---
+remote_theme: just-the-docs/just-the-docs
+
+# --- HVAC & AI Branding ---
+color_scheme: dark             # The professional "Intel" look
+search_enabled: true           # Adds the search bar to your sidebar
+nav_external_links:
+  - title: "Project Source"
+    url: "https://github.com/hvacaiintel/hvacAIintel.github.io"
+
+# --- UI Features ---
+back_to_top: true
+back_to_top_text: "Back to top"
+footer_content: "© 2026 HVACAIIntel | Digitizing Climate Control"
+
+# --- Technical Plugins ---
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
