@@ -5,11 +5,17 @@ nav_order: 1
 description: "Bringing Digitization and AI Intelligence to HVAC Systems."
 permalink: /
 ---
+
 <div align="center">
   <img src="{{ site.baseurl }}/assets/images/123.png" alt="HVACAIIntel Logo" width="200">
-  <br>
-  <h1 style="border-bottom: none;">HVACAIIntel</h1>
+  <h1 style="border-bottom: none; margin-top: 10px;">HVACAIIntel</h1>
+  <p style="font-size: 1.25rem; color: #888;">The Intelligence Layer for Modern Climate Control</p>
 </div>
+
+<hr>
+
+# Welcome to the Platform
+HVACAIIntel is dedicated to bringing **advanced digitization**...
 
 ![HVACAIIntel Banner]({{ site.baseurl }}/assets/images/hvacaiintel%20banner.PNG)
 
