@@ -4,12 +4,13 @@ title: Home
 nav_order: 1
 description: "Bringing Digitization and AI Intelligence to HVAC Systems."
 permalink: /
+![HVACAIIntel Banner](/assets/images/hvacaiintel banner.png)
 ---
 
 # HVACAIIntel
 {: .fs-9 }
 
-## Bridging Thermodynamics with Neural Networks.
+## Bridging HVAC with Neural Networks.
 {: .fs-6 .fw-300 }
 
 HVACAIIntel is dedicated to bringing **advanced digitization** and **AI-driven intelligence** to the HVAC industry. We focus on optimizing climate control, energy efficiency, and predictive maintenance.
