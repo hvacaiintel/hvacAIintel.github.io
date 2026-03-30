@@ -15,17 +15,17 @@ permalink: /
 <hr>
 
 # Welcome to the Platform
-HVACAIIntel is dedicated to bringing **advanced digitization**...
+HVAC AI Intel is dedicated to bringing **advanced digitization**...
 
 ![HVACAIIntel Banner]({{ site.baseurl }}/assets/images/hvacaiintel%20banner.PNG)
 
-# HVACAIIntel
+# HVAC > AI Intelligence
 {: .fs-9 }
 
-## Bridging HVAC with Neural Networks.
+## Bridging HVAC with Neural Networks AI.
 {: .fs-6 .fw-300 }
 
-HVACAIIntel is dedicated to bringing **advanced digitization** and **AI-driven intelligence** to the HVAC industry. We focus on optimizing climate control, energy efficiency, and predictive maintenance.
+HVAC > AI Intel is dedicated to bringing **advanced digitization** and **AI-driven intelligence** to the HVAC industry. We focus on optimizing climate control design, energy efficiency, and every other aspect of HVAC.
 {: .fs-6 .mb-4 }
 
 [Get Started]({{ site.baseurl }}/docs/introduction){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -34,7 +34,7 @@ HVACAIIntel is dedicated to bringing **advanced digitization** and **AI-driven i
 ---
 ## The Digitization Roadmap: From Mechanical to Intelligent
 {: .fs-9 .text-center }
-HVACAIIntel is the bridge between traditional thermodynamics and neural-driven climate control. 
+HVACAIIntel is the bridge between traditional HVAC and neural-driven climate control. 
 Learn how to digitize air-side and water-side systems using the modern AI stack.
 {: .fs-6 .fw-300 .text-center }
 
