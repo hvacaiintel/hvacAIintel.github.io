@@ -10,6 +10,7 @@ permalink: /
   <br>
   <h1 style="border-bottom: none;">HVACAIIntel</h1>
 </div>
+
 ![HVACAIIntel Banner]({{ site.baseurl }}/assets/images/hvacaiintel%20banner.PNG)
 
 # HVACAIIntel
