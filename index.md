@@ -5,12 +5,13 @@ nav_order: 1
 description: "Bringing Digitization and AI Intelligence to HVAC Systems."
 permalink: /
 ---
-![HVACAIIntel Banner]({{ site.baseurl }}/assets/images/hvacaiintel%20banner.PNG)
 <div align="center">
   <img src="{{ site.baseurl }}/assets/images/123.png" alt="HVACAIIntel Logo" width="200">
   <br>
   <h1 style="border-bottom: none;">HVACAIIntel</h1>
 </div>
+![HVACAIIntel Banner]({{ site.baseurl }}/assets/images/hvacaiintel%20banner.PNG)
+
 # HVACAIIntel
 {: .fs-9 }
 
