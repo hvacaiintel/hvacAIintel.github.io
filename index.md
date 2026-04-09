@@ -1505,7 +1505,29 @@
       </div>
     </div>
 
-    <div class="footer-bottom">
+    <!-- HVAC Unit Pro App Banner -->
+<div style="background:linear-gradient(135deg,#0a1628 0%,#0f2040 100%);border:2px solid #00c9b1;border-radius:16px;padding:28px 24px;margin:40px 24px;text-align:center;">
+  <div style="font-size:48px;margin-bottom:12px;">⚙️</div>
+  <h3 style="color:#00c9b1;font-size:22px;margin-bottom:8px;letter-spacing:1px;font-weight:700;">HVAC Unit Pro</h3>
+  <p style="color:#c8dedd;font-size:14px;margin-bottom:6px;line-height:1.7;">
+    Convert every HVAC engineering unit instantly.<br>
+    12 categories · 60+ conversions · Works offline · 100% Free
+  </p>
+  <p style="color:#7a9e9b;font-size:12px;margin-bottom:20px;">
+    🌡️ Temp &nbsp;·&nbsp; 💨 Airflow &nbsp;·&nbsp; ⚡ Power &nbsp;·&nbsp; 🔵 Pressure &nbsp;·&nbsp; 🌊 Enthalpy &nbsp;·&nbsp; and more
+  </p>
+  <a href="https://hvacaiintel.github.io/hvac-unit-pro/download.html"
+     style="display:inline-block;background:#00c9b1;color:#0a1628;padding:14px 32px;border-radius:10px;font-weight:700;font-size:16px;text-decoration:none;letter-spacing:1px;margin-bottom:10px;">
+    ⬇ Download Free App
+  </a>
+  <br>
+  <a href="https://hvacaiintel.github.io/hvac-unit-pro/"
+     style="display:inline-block;color:#00c9b1;font-size:13px;text-decoration:none;margin-top:8px;">
+    🌐 Open as Web App →
+  </a>
+</div>
+<!-- End App Banner -->
+<div class="footer-bottom">
       <span class="footer-copy">© 2026 HVAC AI Intel · @hvacAIintel · Dubai, UAE</span>
       <div class="footer-social">
         <a href="https://www.youtube.com/channel/UCOLrk1nHdHxeZrcKtERo-ow" target="_blank" class="social-link" title="YouTube">▶</a>
